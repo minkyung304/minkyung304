@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🌟안녕하세요 🌟
 
-<!--
-**minkyung304/minkyung304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 손민경
+- 😊 25살
+- 🎓 영남대학교 화학공학부 졸업  
+- 💤 isfp
 
-Here are some ideas to get you started:
+### 🚀 Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&cacheBust=1)
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+- ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📫 Let's Connect
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
